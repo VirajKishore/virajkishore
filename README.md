@@ -4,8 +4,8 @@
 💻 Ex .NET Developer @ Marven Data Systems  
 🌐 Working on public full-stack projects (React + Node + Azure)  
 📚 Passionate about cloud, DevOps, and scalable systems  
-🛠️ Currently building: [Project Name]  
-📫 Let's connect → [LinkedIn Link]
+[comment]: <> (🛠️ Currently building: [Project Name])  
+📫 Let's connect → https://www.linkedin.com/in/viraj-kishore-ch/
 
 > I love building things that solve real problems, and I'm learning in public 🚀
 
