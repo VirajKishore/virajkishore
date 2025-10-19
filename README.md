@@ -6,7 +6,7 @@
 📚 Passionate about cloud, DevOps, and scalable systems  
 📫 Let's connect → https://www.linkedin.com/in/viraj-kishore-ch/
 
-> I love building things that solve real problems, and I'm learning in public 🚀
+> I love building things that solve real problems
 
 ---
 
